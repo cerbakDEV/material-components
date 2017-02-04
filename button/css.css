@@ -1,0 +1,31 @@
+/* Patrik Čerbák */
+
+/* font and text */
+.text-black{
+  font-family: 'Roboto', sans-serif;
+  color: #000000;
+  opacity: 0.87;
+}
+
+/* code */
+.button{
+  width: auto;
+  height: 35px;
+  background-color: #FFC400;
+  font-size: 20px;
+  border: none;
+  border-radius: 3px;
+  outline: none;
+}
+
+.button:hover {
+  background-color: #FFAB00
+}
+
+.button:active {
+  background-color: #FFAB00
+}
+
+.button:focus{
+  outline: none;
+}
